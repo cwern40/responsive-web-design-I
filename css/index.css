@@ -223,6 +223,31 @@ footer p{
     img.title {
         display: none;
     }
+
+    div.middle .left {
+        width: 47%;
+        margin: 6% 0;
+    }
+    
+    div.middle .right {
+        width: 47%;
+        margin: 6% 0;
+    }
+
+    div.middle .bottom-left{
+        width: 29%;
+        margin: 6% 0;
+    }
+    
+    div.middle .bottom-middle{
+        margin: 6% 0;
+        width: 29%;
+    }
+    
+    div.middle .bottom-right{
+        margin: 6% 0;
+        width: 29%;
+    }
 }
 
 @media (max-width: 500px) {
